@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @stevenirby
 - 👀 I’m interested in Space stuff, art, travel, tech, and much more.
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on automation stuff
+- 🌱 I’m currently doing a lot of react / python stuff.
 - 📫 How to reach me github @ username dot me
 
 <!---
