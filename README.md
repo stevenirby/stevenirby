@@ -2,7 +2,7 @@
 
 I've been working full-time for software companies since 2007. These days, I'm working hard to fix email. 
 
-I run two automated email newsletters:
+I work and run these projects full-time:
 
 - https://randomdailyart.com
 - https://randomdailyart.ai
