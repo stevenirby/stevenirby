@@ -6,16 +6,20 @@ I run two automated email newsletters:
 
 - https://randomdailyart.com
 - https://randomdailyart.ai
+- https://ufe.email
+- https://aichat.email
 
-Random Daily Art is also a web app for artists to maintain their artists profiles, upload art for the newsletter, see how many times their art has been seen, etc. It's written in TypeScript, React, Next.js, Tailwind.css, and uses the Prisma ORM.
+Random Daily Art is also a web app for human-made art and artists to maintain profiles, upload art for the newsletter, see how often their art has been seen, etc. Written in TypeScript, React, Next.js, Tailwind.css, and is fully automated with a tiny bit of human curration.
 
-I'm building a browser extension to fixes peoples inboxes: https://unfuck.email
+Random Daily Art .ai is the AI version. Featuring non-human-made artwork. Written in Go Hugo, tailwind, and some alpine.js. 
+
+UFE is an ambitious project/browser extension to fix email. Written using Object-oriented TypeScript, some react, serverless lambdas, some AI, and tailwind.
 
 
 For the day job, I work in Python frameworks such as Django or node.js for the backend and react on the front end. 
-Tech I'm using a lot these days: tailwind.css, react, CSS, next.js, alpine.js, prisma, graphql, and more.
+Tech I'm using a lot these days: serverless lambdas, React, tailwind/vanila CSS, Next.js, prisma, graphql, and more.
 
-I'm looking for freelance opportunities and the right full-time long-term role.
+I'm looking for freelance opportunities and the right full-time, long-term role.
 
 📫 How to reach me github @ username dot me
 
