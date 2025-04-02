@@ -1,23 +1,16 @@
 👋 Hi, I’m @stevenirby
 
-I've been working full-time for software companies since 2007. These days, I'm working hard to fix email. 
+These days, I'm working a lot on AI Agents. 
 
-I work and run these projects full-time:
+I work on these projects:
 
-- https://randomdailyart.com
-- https://randomdailyart.ai
-- https://ufe.email
+- https://agentscode.dev
 - https://aichat.email
 
-Random Daily Art is also a web app for human-made art and artists to maintain profiles, upload art for the newsletter, see how often their art has been seen, etc. Written in TypeScript, React, Next.js, Tailwind.css, and is fully automated with a tiny bit of human curration.
 
-Random Daily Art .ai is the AI version. Featuring non-human-made artwork. Written in Go Hugo, tailwind, and some alpine.js. 
+I do a lot of work in React, node, serverless lambdas, tailwind/CSS, Next.js, prisma, graphql, and more.
 
-UFE is an ambitious project/browser extension to fix email. Written using Object-oriented TypeScript, some react, serverless lambdas, some AI, and tailwind.
-
-
-For the day job, I work in Python frameworks such as Django or node.js for the backend and react on the front end. 
-Tech I'm using a lot these days: serverless lambdas, React, tailwind/vanila CSS, Next.js, prisma, graphql, and more.
+For Python, frameworks such as Django
 
 I'm looking for freelance opportunities and the right full-time, long-term role.
 
