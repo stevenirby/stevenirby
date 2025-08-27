@@ -5,6 +5,8 @@ These days, I'm working a lot on AI Agents.
 I work on these projects:
 
 - https://agentscode.dev
+- https://randomdailyurls.com
+- https://unfuck.email
 - https://aichat.email
 
 
