@@ -4,26 +4,27 @@ Right now, I'm in the middle of a challenge: 25 projects in 25 weeks. I have to 
 
 I work on these projects:
 
-- [Something Important To Say](https://somethingimportanttosay.com/)
-- [One Goal](https://onegoal.email)
-- [Pizzzza](https://pizzzza.lol)
-- [Big Christmas Tree](https://bigchristmastree.com)
-- [Firefly Forest](https://fireflyfo.rest)
-- [Crazy Fast Website](https://crazyfast.website)
-- [Emojis Time](https://emojistime.com)
-- [Paul Graham Ipsum](https://paulgrahamipsum.com)
-- [Turkey Hands](https://turkeyhands.fun)
-- [Kilroy Was Here](https://kilroywashere.lol)
-- [Pumpkin Cool](https://pumpkin.cool)
-- [Unfuck Email](https://unfuck.email)
-- [Agents Code](https://agentscode.dev)
+- [Anacyclosis](https://anacyclosis.info?ref=github)
+- [Something Important To Say](https://somethingimportanttosay.com/?ref=github)
+- [One Goal](https://onegoal.email?ref=github)
+- [Pizzzza](https://pizzzza.lol?ref=github)
+- [Big Christmas Tree](https://bigchristmastree.com?ref=github)
+- [Firefly Forest](https://fireflyfo.rest?ref=github)
+- [Crazy Fast Website](https://crazyfast.website?ref=github)
+- [Emojis Time](https://emojistime.com?ref=github)
+- [Paul Graham Ipsum](https://paulgrahamipsum.com?ref=github)
+- [Turkey Hands](https://turkeyhands.fun?ref=github)
+- [Kilroy Was Here](https://kilroywashere.lol?ref=github)
+- [Pumpkin Cool](https://pumpkin.cool?ref=github)
+- [Unfuck Email](https://unfuck.email?ref=github)
+- [Agents Code](https://agentscode.dev?ref=github)
 
-- [Just Schedule Me](https://justschedule.me)
-- [AgentsCode](https://agentscode.dev)
-- [Unfuck Email](https://unfuck.email)
-- [AiChat Email](https://aichat.email)
+- [Just Schedule Me](https://justschedule.me?ref=github)
+- [AgentsCode](https://agentscode.dev?ref=github)
+- [Unfuck Email](https://unfuck.email?ref=github)
+- [AiChat Email](https://aichat.email?ref=github)
 
-My email newsletter: [Random Daily URLs](https://randomdailyurls.com)
+My email newsletter: [Random Daily URLs](https://randomdailyurls.com?ref=github)
 
 I do a lot of work in React, node, serverless lambdas, tailwind/CSS, Next.js, prisma, graphql, and more.
 
