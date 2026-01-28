@@ -4,6 +4,7 @@ Right now, I'm in the middle of a challenge: 25 projects in 25 weeks. I have to 
 
 I work on these projects:
 
+- [WTF Happened in 2012?](https://wtfhappened2012.com?ref=github)
 - [Anacyclosis](https://anacyclosis.info?ref=github)
 - [Something Important To Say](https://somethingimportanttosay.com/?ref=github)
 - [One Goal](https://onegoal.email?ref=github)
