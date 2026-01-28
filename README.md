@@ -43,7 +43,7 @@
 
 * 📅 [Just Schedule Me](https://justschedule.me?ref=github) - Scheduling without the BS
 * 💬 [AiChat Email](https://aichat.email?ref=github) - AI-powered email assistant
-   📧 [Unfuck Email](https://unfuck.email?ref=github) - Fix your email mess
+* 📧 [Unfuck Email](https://unfuck.email?ref=github) - Fix your email mess
 * 🤖 [Agents Code](https://agentscode.dev?ref=github) - AI agents that write code
 
 ---
