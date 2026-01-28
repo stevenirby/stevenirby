@@ -26,6 +26,7 @@
 
 * 📊 [WTF Happened in 2012?](https://wtfhappened2012.com?ref=github) - 45+ charts documenting when everything changed
 * 🔄 [Anacyclosis](https://anacyclosis.info?ref=github) - The cycle of political regimes, visualized
+* 📞 [Popcorn Phone](https://popcornph.one?ref=github) - The classic phone service returns
 * 💬 [Something Important To Say](https://somethingimportanttosay.com?ref=github) - When you finally have something worth saying
 * 🎯 [One Goal](https://onegoal.email?ref=github) - Daily email to keep you focused on what matters
 * 🍕 [Pizzzza](https://pizzzza.lol?ref=github) - A pizza-themed game (yes, 4 z's)
@@ -37,13 +38,13 @@
 * 🦃 [Turkey Hands](https://turkeyhands.fun?ref=github) - Thanksgiving hand turkeys, digitized
 * 👀 [Kilroy Was Here](https://kilroywashere.lol?ref=github) - The legend continues
 * 🎃 [Pumpkin Cool](https://pumpkin.cool?ref=github) - Pumpkins, but cool
-* 📧 [Unfuck Email](https://unfuck.email?ref=github) - Fix your email mess
-* 🤖 [Agents Code](https://agentscode.dev?ref=github) - AI agents that write code
 
 ## SaaS & Tools
 
 * 📅 [Just Schedule Me](https://justschedule.me?ref=github) - Scheduling without the BS
 * 💬 [AiChat Email](https://aichat.email?ref=github) - AI-powered email assistant
+   📧 [Unfuck Email](https://unfuck.email?ref=github) - Fix your email mess
+* 🤖 [Agents Code](https://agentscode.dev?ref=github) - AI agents that write code
 
 ---
 
