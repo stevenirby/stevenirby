@@ -1,6 +1,6 @@
 # Hi, I'm Steven 👋
 
-📍 London | 🌍 7 continents | 🚀 Building 25 projects in 25 weeks | 💀 Unemployable by design
+📍 London | 🌍 7 continents | 🚀 Building 25 projects in 25 weeks 
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
@@ -18,7 +18,7 @@
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat&logo=drizzle&logoColor=black)
 
-> Former software engineer turned online creator. Digital nomad since 2015. Got kicked out of 2 high schools. Called Bitcoin in 2011. Now I ship weird internet things every week to see what sticks.
+> Software engineer turned online creator. Digital nomad since 2015. Now I ship weird internet things every week to see what sticks.
 
 ---
 
