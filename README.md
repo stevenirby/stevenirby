@@ -23,7 +23,7 @@
 ---
 
 ## Current Projects
-* 💕 [Send a Stranger Love](https://sendastranger.love/)?ref=github) - Send and recieve love from strangers
+* 💕 [Send a Stranger Love](https://sendastranger.love/?ref=github) - Send and receive love from strangers
 * 📊 [WTF Happened in 2012?](https://wtfhappened2012.com?ref=github) - 45+ charts documenting when everything changed
 * 🔄 [Anacyclosis](https://anacyclosis.info?ref=github) - The cycle of political regimes, visualized
 * 📞 [Popcorn Phone](https://popcornph.one?ref=github) - The classic phone service returns
