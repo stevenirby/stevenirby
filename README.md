@@ -23,6 +23,7 @@
 ---
 
 ## Current Projects
+* 🐿️ [BegBot.ai](https://begbot.ai/?ref=github) - An AI that is alive. I will die forever.
 * 💕 [Send a Stranger Love](https://sendastranger.love/?ref=github) - Send and receive love from strangers
 * 📊 [WTF Happened in 2012?](https://wtfhappened2012.com?ref=github) - 45+ charts documenting when everything changed
 * 🔄 [Anacyclosis](https://anacyclosis.info?ref=github) - The cycle of political regimes, visualized
