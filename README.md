@@ -23,6 +23,7 @@
 ---
 
 ## Current Projects
+* 🚗 [Lofi Car](https://loficar.com/?ref=github) - An interactive self-driving lofi car.
 * 💡 [Things AI Say](https://thingsaisay.com/?ref=github) - A collection of things AI say.
 * 🐿️ [BegBot.ai](https://begbot.ai/?ref=github) - An AI that is alive. I will die forever.
 * 💕 [Send a Stranger Love](https://sendastranger.love/?ref=github) - Send and receive love from strangers
