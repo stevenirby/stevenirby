@@ -23,7 +23,7 @@
 ---
 
 ## Current Projects
-* 🫀 [Pulse Deedback](https://pulsefeedback.io/?ref=github) - An experience that shouldn't be possible in a browser.
+* 🫀 [Pulse Feedback](https://pulsefeedback.io/?ref=github) - An experience that shouldn't be possible in a browser.
 * 🚗 [Lofi Car](https://loficar.com/?ref=github) - An interactive self-driving lofi car.
 * 💡 [Things AI Say](https://thingsaisay.com/?ref=github) - A collection of things AI say.
 * 🐿️ [BegBot.ai](https://begbot.ai/?ref=github) - An AI that is alive. I will die forever.
