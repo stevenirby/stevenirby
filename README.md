@@ -23,6 +23,7 @@
 ---
 
 ## Current Projects
+* 📺 [Channel Surfer TV](https://channelsurfer.tv/?ref=github) - Flip through YouTube like it's cable TV.
 * 🫀 [Pulse Feedback](https://pulsefeedback.io/?ref=github) - An experience that shouldn't be possible in a browser.
 * 🚗 [Lofi Car](https://loficar.com/?ref=github) - An interactive self-driving lofi car.
 * 💡 [Things AI Say](https://thingsaisay.com/?ref=github) - A collection of things AI say.
