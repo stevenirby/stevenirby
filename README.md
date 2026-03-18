@@ -23,6 +23,7 @@
 ---
 
 ## Current Projects
+* 🧅 [Onion Peel](https://onionpeel.lol//?ref=github) - Chop a Virtual Onion, Try Not to Cry
 * 📺 [Channel Surfer TV](https://channelsurfer.tv/?ref=github) - Flip through YouTube like it's cable TV.
 * 🫀 [Pulse Feedback](https://pulsefeedback.io/?ref=github) - An experience that shouldn't be possible in a browser.
 * 🚗 [Lofi Car](https://loficar.com/?ref=github) - An interactive self-driving lofi car.
