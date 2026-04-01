@@ -23,7 +23,7 @@
 ---
 
 ## Current Projects
-* 🪐 [Marsputer](https://marsputer.com/)?ref=github) - A fully interactive Mars desktop OS in your browser.
+* 🪐 [Marsputer](https://marsputer.com/?ref=github) - A fully interactive Mars desktop OS in your browser.
 * 😤 [Let Me Emoji That For You](https://letmeemojithatforyou.com/?ref=github) - The passive-aggressive way to help someone find an emoji.
 * 🧅 [Onion Peel](https://onionpeel.lol/?ref=github) - Chop a Virtual Onion, Try Not to Cry
 * 📺 [Channel Surfer TV](https://channelsurfer.tv/?ref=github) - Flip through YouTube like it's cable TV.
