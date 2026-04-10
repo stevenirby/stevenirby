@@ -23,6 +23,7 @@
 ---
 
 ## Current Projects
+* 💰 [Price Page](https://pricepage.lol/?ref=github) - 50 AI models. One insane pricing page wall.
 * 🪐 [Marsputer](https://marsputer.com/?ref=github) - A fully interactive Mars desktop OS in your browser.
 * 😤 [Let Me Emoji That For You](https://letmeemojithatforyou.com/?ref=github) - The passive-aggressive way to help someone find an emoji.
 * 🧅 [Onion Peel](https://onionpeel.lol/?ref=github) - Chop a Virtual Onion, Try Not to Cry
