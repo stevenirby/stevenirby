@@ -23,7 +23,8 @@
 ---
 
 ## Current Projects
-* 👨‍🎨 [Light Codes](https://lightcodes.art?ref=github) - An live art exhibition in central London featuring 2 of my projects, Firefly Forest and Pulse Feedback
+* 🧰 [All the Damn Tools](https://allthedamn.tools/?ref=github) - A huge directory of tools, many of which run in the browser.
+* 👨‍🎨 [Light Codes](https://lightcodes.art?ref=github) - A live art exhibition in central London featuring 2 of my projects, Firefly Forest and Pulse Feedback
 * 📆 [25 Weeks](https://25weeks.now/?ref=github) - Pick one repeatable thing to do for the next 25 weeks.
 * 💰 [Price Page](https://pricepage.lol/?ref=github) - 50 AI models. One insane pricing page wall.
 * 🪐 [Marsputer](https://marsputer.com/?ref=github) - A fully interactive Mars desktop OS in your browser.
