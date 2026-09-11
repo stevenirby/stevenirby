@@ -23,6 +23,7 @@
 ---
 
 ## Current Projects
+* 📅 [Just Schedule Me](https://justschedule.me?ref=github) - Scheduling without the BS
 * 🧰 [All the Damn Tools](https://allthedamn.tools/?ref=github) - A huge directory of tools, many of which run in the browser.
 * 👨‍🎨 [Light Codes](https://lightcodes.art?ref=github) - A live art exhibition in central London featuring 2 of my projects, Firefly Forest and Pulse Feedback
 * 📆 [25 Weeks](https://25weeks.now/?ref=github) - Pick one repeatable thing to do for the next 25 weeks.
@@ -50,12 +51,10 @@
 * 🦃 [Turkey Hands](https://turkeyhands.fun?ref=github) - Thanksgiving hand turkeys, digitized
 * 👀 [Kilroy Was Here](https://kilroywashere.lol?ref=github) - The legend continues
 * 🎃 [Pumpkin Cool](https://pumpkin.cool?ref=github) - Pumpkins, but cool
-
-## SaaS & Tools
-
-* 📅 [Just Schedule Me](https://justschedule.me?ref=github) - Scheduling without the BS
-* 💬 [AiChat Email](https://aichat.email?ref=github) - AI-powered email assistant
 * 📧 [Unfuck Email](https://unfuck.email?ref=github) - Fix your email mess
+
+## Project Graveyard 🪦
+* 💬 [AiChat Email](https://aichat.email?ref=github) - AI-powered email assistant
 * 🤖 [Agents Code](https://agentscode.dev?ref=github) - AI agents that write code
 
 ---
